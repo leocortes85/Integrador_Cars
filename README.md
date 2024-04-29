@@ -52,6 +52,3 @@ jupyter notebook
 
 For any inquiries or additional information, please do not hesitate to contact us through this GitHub repository.
 
-## Credits
-
-We extend our gratitude to the entire "Soy Henry" team and the authors of the datasets used in this project.
